@@ -1,4 +1,4 @@
-# RGB Guessing Game Webpage
+# RGB Guessing Game
 
 ## Table of Contents
 
