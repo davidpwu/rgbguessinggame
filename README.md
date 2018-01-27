@@ -11,4 +11,4 @@ This is an RGB guessing game.
 
 ## Try
 
-<a href="https://davidpwu.github.io/rgbguessingguess">https://davidpwu.github.io/rgbguessingguess</a>
+<a href="https://davidpwu.github.io/rgbguessinggame">https://davidpwu.github.io/rgbguessinggame</a>
